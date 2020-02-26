@@ -21,6 +21,6 @@ improve my understanding of the various Apache projects.
 
 ## Projects
 
-- [ARROW](ARROW)
-- [PARQUET](PARQUET)
-- [SPARK](SPARK)
+- [ARROW](Projects/ARROW)
+- [PARQUET](Projects/PARQUET)
+- [SPARK](Projects/SPARK)
