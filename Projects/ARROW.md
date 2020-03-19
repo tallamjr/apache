@@ -14,7 +14,7 @@ patches. A PR relates to a specific JIRA issue and then this is reviewed. If suc
 
 Recently it was decided to drop the listing of squash commits in the merged PR git logs:
 
-```bash
+```diff
 12:39:38 ✔ ~/Github/forks/arrow (master) :: git log -p dev/merge_arrow_pr.py
 commit 5ca82175e9c06b1f3308fb07544c3f4812b613fa
 Author: Wes McKinney <wesm+git@apache.org>
