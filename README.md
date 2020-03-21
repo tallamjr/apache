@@ -38,6 +38,11 @@ technology._
 - [PARQUET](Projects/PARQUET)
 - [SPARK](Projects/SPARK)
 
+#### Talks and Articles
+
+- [Introducing Apache Arrow: Columnar In-Memory Analytics](https://www.dremio.com/announcements/introducing-apache-arrow/)
+- [The Columnar Roadmap: Apache Parquet and Apache Arrow](https://www.dremio.com/webinars/columnar-roadmap-apache-parquet-and-arrow/)
+
 #### Personal Contributions
 
 Below are my (very small) contributions to Apache Software projects. My mission is one day be an active developer
