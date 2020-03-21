@@ -4,9 +4,13 @@
 
 <!--What the common contributing model is, give overview of JIRA -->
 
+- [Release Management Guide](https://cwiki.apache.org/confluence/display/ARROW/Release+Management+Guide)
+
 ### Merging Model
 
 <!--Discuss SPARK and ARROW's merging model. Refer to script that is being used-->
+
+- [Arrow Developer Scripts](https://github.com/apache/arrow/blob/master/dev/README.md)
 
 Apache Arrow uses a similar process to Apache Spark in that items are brought in, in complete
 patches. A PR relates to a specific JIRA issue and then this is reviewed. If successfull, the
