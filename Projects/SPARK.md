@@ -19,6 +19,8 @@ The core idea is to Apache Arrow as serialization format to reduce the overhead 
 Pandas.
 
 - [SPARK-22216](https://issues.apache.org/jira/browse/SPARK-22216)
+    - [Introducing Pandas UDF for PySpark How to run your native Python code with PySpark, fast.](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html?_ga=2.2100599.694686473.1588940385-1981038234.1587459746)
+    - [pandas user-defined functions](https://docs.databricks.com/spark/latest/spark-sql/udf-python-pandas.html)
 
 ### GPUs on Spark
 
