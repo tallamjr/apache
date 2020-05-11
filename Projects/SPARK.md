@@ -13,6 +13,13 @@
 
 - [Merging script](https://github.com/apache/spark/blob/master/dev/merge_spark_pr.py)
 
+### Improving PySpark/Pandas interoperability
+
+The core idea is to Apache Arrow as serialization format to reduce the overhead between PySpark and
+Pandas.
+
+- [SPARK-22216](https://issues.apache.org/jira/browse/SPARK-22216)
+
 ### GPUs on Spark
 
 GPU support for SPARK. More description here
