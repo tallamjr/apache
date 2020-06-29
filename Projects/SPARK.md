@@ -22,6 +22,29 @@ Pandas.
     - [Introducing Pandas UDF for PySpark How to run your native Python code with PySpark, fast.](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html?_ga=2.2100599.694686473.1588940385-1981038234.1587459746)
     - [pandas user-defined functions](https://docs.databricks.com/spark/latest/spark-sql/udf-python-pandas.html)
 
+### Project Zen: Improving Python usability
+
+- [SPARK-32082](https://issues.apache.org/jira/browse/SPARK-32082)
+
+This epic tickets aims to improve the usability in PySpark, and make it more Pythonic. To be more
+explicit, this JIRA targets four bullet points below. Each includes examples:
+
+* Being Pythonic
+    - Pandas UDF enhancements and type hints
+    - Avoid dynamic function definitions, for example, at funcitons.py which makes IDEs unable to detect.
+* Better and easier usability in PySpark
+    - User-facing error message and warnings
+    - Documentation
+    - User guide
+    - Better examples and API documentation, e.g. Koalas and pandas
+* Better interoperability with other Python libraries
+    - Visualization and plotting
+    - Potentially better interface by leveraging Arrow
+    - Compatibility with other libraries such as NumPy universal functions or pandas possibly by leveraging Koalas
+* PyPI Installation
+    - PySpark with Hadoop 3 support on PyPi
+    - Better error handling
+
 ### GPUs on Spark
 
 GPU support for SPARK. More description here
