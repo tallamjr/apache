@@ -45,6 +45,8 @@ explicit, this JIRA targets four bullet points below. Each includes examples:
     - PySpark with Hadoop 3 support on PyPi
     - Better error handling
 
+- [SPARK-32085](https://issues.apache.org/jira/browse/SPARK-32085) Migrate to NumPy documentation style
+
 ### GPUs on Spark
 
 GPU support for SPARK. More description here
